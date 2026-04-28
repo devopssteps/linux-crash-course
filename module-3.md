@@ -1,4 +1,4 @@
-# 🎯 🔥 Linux File & Directory Management
+# 🔥 Linux File & Directory Management
 
 ## 🧠 Concept
 
