@@ -10,10 +10,10 @@ As a DevOps engineer, you constantly:
 * Delete unused data
 
 👉 These 4 operations are used **daily**:
-✔ Create
-✔ Copy
-✔ Move/Rename
-✔ Delete
+ - ✔ Create
+ - ✔ Copy
+ - ✔ Move/Rename
+ - ✔ Delete
 
 ---
 
@@ -217,9 +217,9 @@ rm -rf /tmp/*
 
 # ⚡ Tips
 
-✔ Use `-r` for directories
-✔ Always verify before delete
-✔ Take backup before editing
+ - ✔ Use `-r` for directories
+ - ✔ Always verify before delete
+ - ✔ Take backup before editing
 
 ---
 
