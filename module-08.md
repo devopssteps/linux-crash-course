@@ -205,9 +205,9 @@ curl http://api-server
 ---
 
 # ⚠️ Important Tips
-
-✔ Use `ss` instead of `netstat` (modern)
-✔ Always check:
+ 
+ - ✔ Use `ss` instead of `netstat` (modern)
+ - ✔ Always check:
 
 * IP
 * Port
