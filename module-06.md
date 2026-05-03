@@ -203,9 +203,9 @@ sudo apt install nginx=1.18.*
 
 # ⚠️ Important Tips
 
-✔ Always run `update` before install
-✔ Use `-y` for automation
-✔ Remove unused packages:
+ - ✔ Always run `update` before install
+ - ✔ Use `-y` for automation
+ - ✔ Remove unused packages:
 
 ```bash id="cleanup"
 sudo apt autoremove
@@ -222,15 +222,15 @@ sudo apt autoremove
 
 ---
 
-> “Package management is the first thing DevOps engineers use when setting up any server.”
+> Package management is the first thing DevOps engineers use when setting up any server.
 
 ---
 
-> “If you know package management, you can install and manage any software on any Linux server.”
+> If you know package management, you can install and manage any software on any Linux server.
 
 ---
 
-> “If you don’t know how to install software on Linux, you can’t do DevOps — let me show you how.”
+> If you don’t know how to install software on Linux, you can’t do DevOps.
 
 ---
 
