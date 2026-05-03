@@ -1,6 +1,6 @@
 # 🎯 Linux Users & Groups
 
-## 🧠 Concept (Simple + Real Meaning)
+## 🧠 Concept 
 
 Linux is a **multi-user system**.
 
@@ -222,15 +222,15 @@ sudo apt update
 
 ---
 
-> “In DevOps, managing users and groups is critical because multiple engineers and services share the same server.”
+> In DevOps, managing users and groups is critical because multiple engineers and services share the same server.
 
 ---
 
-> “If you understand users, groups, and permissions together, you can fully control any Linux system.”
+> If you understand users, groups, and permissions together, you can fully control any Linux system.
 
 ---
 
-> “If you don’t understand Linux users and groups, you can break your server in seconds — let me show you how to do it correctly.”
+> If you don’t understand Linux users and groups, you can break your server in seconds.
 
 ---
 
