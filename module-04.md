@@ -1,6 +1,6 @@
 # 🎯 Linux Permissions & Ownership
 
-## 🧠 Concept (Simple + Real Meaning)
+## 🧠 Concept 
 
 In Linux, **every file and directory has:**
 
