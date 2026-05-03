@@ -223,6 +223,6 @@ chmod -R 755 /app
 
 ---
 
-> “90% of DevOps errors come from permission issues — let me show you how to fix them.”
+> “90% of DevOps errors come from permission issues.
 
 ---
