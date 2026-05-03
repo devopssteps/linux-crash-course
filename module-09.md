@@ -1,6 +1,6 @@
 # 🎯 Linux Disk Management
 
-## 🧠 Concept (Simple + Real Meaning)
+## 🧠 Concept 
 
 Disk management = how you:
  - ✔ Check disk space
