@@ -219,10 +219,10 @@ chmod -R 755 /app
 
 ---
 
-> “Permissions are one of the most common issues in DevOps — if you master this, you can solve real production problems.”
+> Permissions are one of the most common issues in DevOps — if you master this, you can solve real production problems.
 
 ---
 
-> “90% of DevOps errors come from permission issues.
+> 90% of DevOps errors come from permission issues.
 
 ---
