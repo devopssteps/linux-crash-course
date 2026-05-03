@@ -1,6 +1,6 @@
 # 🎯 Linux Networking Commands
 
-## 🧠 Concept (Simple + Real Meaning)
+## 🧠 Concept 
 
 Networking commands help you:
  - ✔ Check IP address
