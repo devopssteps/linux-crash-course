@@ -1,6 +1,6 @@
 # 🎯 Linux Package Management
 
-## 🧠 Concept (Simple + Real Meaning)
+## 🧠 Concept 
 
 **Package management** is how you:
 
