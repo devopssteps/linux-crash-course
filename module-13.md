@@ -1,6 +1,6 @@
 # 🎯 DevOps Real-Life Linux Commands
 
-## 🧠 Concept (Why This Matters)
+## 🧠 Concept 
 
 In real DevOps work, you don’t just run commands randomly — you:
  - ✔ Debug issues
