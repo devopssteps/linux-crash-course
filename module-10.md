@@ -1,6 +1,6 @@
 # 🎯 Linux Logs & Monitoring
 
-## 🧠 Concept (Simple + Real Meaning)
+## 🧠 Concept
 
 Logs = records of what is happening in your system
 
