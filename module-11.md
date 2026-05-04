@@ -1,6 +1,6 @@
 # 🎯 SSH & Remote Access
 
-## 🧠 Concept (Simple + Real Meaning)
+## 🧠 Concept 
 
 **SSH (Secure Shell)** lets you:
  - ✔ Connect to remote servers securely
