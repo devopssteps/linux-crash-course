@@ -258,7 +258,7 @@ kill -9 <pid>
 
 ---
 
-> “If you don’t know how to kill a process in Linux, you can’t fix production issues — let me show you how.”
+> “If you don’t know how to kill a process in Linux, you can’t fix production issues.”
 
 ---
 
