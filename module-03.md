@@ -227,6 +227,6 @@ rm -rf /tmp/*
 
 ---
 
-> “If you don’t know these 4 Linux commands, you can’t survive in DevOps — let me show you why.”
+> “If you don’t know these 4 Linux commands, you can’t survive in DevOps.”
 
 ---
