@@ -236,7 +236,7 @@ curl http://api-server
 
 ---
 
-> “If your server is not working, these 5 commands will save your job — let me show you.”
+> “If your server is not working, these 5 commands will save your job.”
 
 ---
 
