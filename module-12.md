@@ -1,6 +1,6 @@
 # 🎯 Linux Shell Basics
 
-## 🧠 Concept (Simple + Real Meaning)
+## 🧠 Concept 
 
 👉 The **shell** is where you type commands and control Linux
 
