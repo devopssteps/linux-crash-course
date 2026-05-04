@@ -263,7 +263,7 @@ ps aux > process.txt
 > “The shell is the heart of DevOps — everything starts from here.”
 
 ---
-> “If you don’t know Linux shell, you can’t become a DevOps engineer — let me show you the basics.”
+> “If you don’t know Linux shell, you can’t become a DevOps engineer.”
 
 ---
 
